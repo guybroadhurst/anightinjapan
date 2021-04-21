@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: a@nightinjapan.com
 description: 'A blog about Japan. '
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: BroadhurstGuy
 github_username: guybroadhurst
 theme: minima
