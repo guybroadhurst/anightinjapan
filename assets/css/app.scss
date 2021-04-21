@@ -53,7 +53,16 @@ section {
     margin: 40px 0 0 0;
 }
 
-nav a, p a {
+img {
+    max-width: 780px;
+}
+
+nav a {
+    color: $black;
+    text-decoration: none;
+}
+
+nav a.selected, p a {
     color: $black;
     text-decoration: none;
     border-bottom: 3px solid $primary-color;
@@ -98,3 +107,5 @@ div.post {
         margin-top: 80px;
     }
 }
+
+
